@@ -1,0 +1,116 @@
+name: mint
+description: A Very Good Project created by Very Good CLI.
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  agora_rtc_engine: ^6.2.0
+  auto_route: ^7.2.0
+  bloc: ^8.1.1
+  cached_network_image: ^3.2.3
+  cloud_firestore: ^4.7.1
+  cloud_functions: ^4.4.0
+  firebase_auth: 
+  firebase_core: ^2.12.0
+  firebase_crashlytics: ^3.3.3
+  firebase_messaging: ^14.6.6
+  firebase_storage: ^11.2.3
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.2
+  flutter_dotenv: ^5.1.0
+
+  flutter_local_notifications: ^15.1.0+1
+  flutter_localizations:
+    sdk: flutter
+  flutter_rating_bar: ^4.0.1
+  flutter_screenutil: ^5.9.0
+  flutter_slidable: ^3.0.0
+  flutter_stripe: ^9.4.0
+  flutter_svg: ^2.0.5
+  fluttertoast: ^8.2.2
+  freezed_annotation: ^2.2.0
+  get_it: ^7.6.0
+  grouped_list: ^5.1.2
+  http: ^1.1.0
+  image_picker: ^0.8.9
+  intl: ^0.18.0
+  modal_bottom_sheet: ^3.0.0-pre
+  path_provider: ^2.1.0
+  permission_handler: ^10.3.0
+  pinput: ^2.2.31
+  shared_preferences: ^2.1.2
+  table_calendar: ^3.0.9
+  timeago: ^3.6.0
+  
+dev_dependencies:
+  auto_route_generator:
+  bloc_test: ^9.1.1
+  build_runner: ^2.4.6
+  flutter_test:
+    sdk: flutter
+  freezed: ^2.4.5
+  # flutter_gen:
+  mocktail: ^0.3.0
+  very_good_analysis: ^4.0.0
+
+flutter:
+  assets: 
+    - assets/fonts/Inter-Medium.ttf
+    - assets/fonts/Inter-Bold.ttf
+    - assets/fonts/Inter-Regular.ttf
+    - assets/fonts/Inter-SemiBold.ttf
+    - assets/svg/delete.svg
+    - assets/svg/spec.svg
+    - assets/svg/symptom.svg
+    - assets/svg/notifications.svg
+    - assets/svg/fav.svg
+    - assets/svg/half_star.svg
+    - assets/svg/star.svg
+    - assets/svg/filled_star.svg
+    - assets/svg/specialists.svg
+    - assets/svg/sessions.svg
+    - assets/svg/profile.svg
+    - assets/svg/home.svg
+    - assets/svg/filter.svg
+    - assets/svg/add.svg
+    - assets/svg/visa.svg
+    - assets/svg/mastercard.svg
+    - assets/svg/call.svg
+    - assets/svg/chat.svg
+    - assets/svg/video.svg
+    - assets/svg/attach.svg
+    - assets/svg/mic.svg
+    - assets/svg/smile.svg
+    - assets/png/thankyou.png
+    - assets/svg/decline.svg
+    - assets/svg/media_chat.svg
+    - assets/svg/mute_vid.svg
+    - assets/svg/muted_mic.svg
+    - assets/svg/speaker.svg
+    - assets/svg/reverse_camera.svg
+    - assets/svg/vid.svg
+    - assets/svg/profile_notification.svg
+    - assets/svg/theme.svg
+    - assets/svg/pin.svg
+    - assets/svg/logout.svg
+    - assets/svg/profile_fav.svg
+    - assets/svg/credit.svg
+    - assets/svg/chat_checkmark.svg
+    - assets/svg/chat_bottom_bar.svg
+    - assets/svg/personal.svg
+    - assets/png/missing_avatar.png
+    - assets/svg/camera.svg  
+    - assets/svg/master_profile.svg  
+    - assets/svg/visa_profile.svg  
+    - assets/svg/filled_fav.svg
+    - assets/svg/booking_checkmark.svg
+    - assets/png/emoji.png
+    - assets/jpg/doctor.jpg
+    - .env
+
+  uses-material-design: true
+  generate: true

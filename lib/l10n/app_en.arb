@@ -1,0 +1,234 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "enterPin": "Enter a pin-code",
+    "wrongPin": "Entered PIN codes do not match",
+    "forgotPin": "Forgot a pin code?",
+    "signUp": "Sign up",
+    "phoneHint": "Phone number",
+    "agree": "By tapping “Sign up”, you have read and agree to the\n",
+    "beenTherapy": "Have you ever been to therapy before?",
+    "conditions": "Mindy Terms & Conditions and Privacy Policy",
+    "haveAccount": "Already have an account? ",
+    "clickSignIn": "Click Sign in",
+    "clickSignUp": "Click Sign up",
+    "emptyDesc": "Empty description",
+    "upTo30": "Up to 30 min",
+    "myCreditCards": "My credit cards",
+    "favouriteDoctors": "Favourite doctors",
+    "error": "Error",
+    "errorOccured": "An error occured: ",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "notifications": "Notifications",
+    "unnamed": "Unnamed",
+    "messages": "Messages",
+    "photo": "Photo",
+    "emptyNotifications": "You don't have any notifications",
+    "favouriteRemove": "Favourite remove",
+    "removeDoctor": "Do you want to remove {name} from favourite?",
+    "@removeDoctor": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "dateOfBirth": "Date of birth",
+    "colorTheme": "Color theme",
+    "logout": "Logout",
+    "enterCurrentPin": "Enter the current pin-code",
+    "changePin": "Change Pincode",
+    "emptyList": "List is empty",
+    "openAppSettings": "Open app settings",
+    "personalData": "Personal data",
+    "allowMic": "Please allow microphone and video to join chat",
+    "leaveReview": "Leave a review",
+    "continueButton": "Continue",
+    "wrongCardDate": "Wrong card date",
+    "wrongCardCVV": "Wrong card CVV/CVC",
+    "unauthenticated": "Unauthenticated",
+    "noMessages": "No messages found",
+    "chooseRightTime": "Choose the right time to book",
+    "dontHaveAccount": "Don't have an account? ",
+    "accountButton": "Successfully deleted book with id ${text}",
+    "@accountButton": {
+        "placeholders": {
+            "text": {
+                "type": "String"
+            }
+        }
+    },
+    "wrongNumber": "Wrong number",
+    "enterCode": "Enter a code",
+    "codeSent": "The code was sent to ",
+    "codeSentNumber": "{text}",
+    "@codeSentNumber": {
+        "placeholders": {
+            "text": {
+                "type": "String"
+            }
+        }
+    },
+    "codeTimeOut": "You will able to re-send a code in {time}",
+    "@codeTimeOut": {
+        "placeholders": {
+            "time": {
+                "type": "String"
+            }
+        }
+    },
+    "signIn": "Sign In",
+    "resendCode": "Re-send code",
+    "enterNewPin": "Enter a new pin-code",
+    "confirmPin": "Confirm a pin-code",
+    "recoverPin": "Pin code recover",
+    "recoverPinText": "If you forgot a pin code click Apply to get code via SMS",
+    "apply": "Apply",
+    "cancel": "Cancel",
+    "wrongOtp": "Wrong code, try again",
+    "pickupSpecialist": "Pick up a specialist",
+    "chooseSymptom": "Choose symptom",
+    "online": "Doctors online",
+    "home": "Home",
+    "specialists": "Specialists",
+    "sessions": "Sessions",
+    "profile": "Profile",
+    "helpMatch": "Help us match you to the right therapist",
+    "whoCommunicate": "Who will communicate with therapist?",
+    "myCondition": "My condition",
+    "relationship": "Relationship",
+    "studyAndWork": "Study&Work",
+    "filters": "Filters",
+    "price": "Price",
+    "noCards": "No payment cards available. Add card \nfor comfortable work",
+    "experience": "Experience",
+    "chooseTheme": "Choose your theme",
+    "inAppNotifications": "In-app notifications",
+    "dark": "Dark",
+    "light": "Light",
+    "getNotifications": "Get notifications",
+    "notificationStatusChange": "The changes will take effect after the program is restarted",
+    "specialities": "Specialities",
+    "clear": "Clear",
+    "applyFilters": "Apply filters",
+    "next": "Next",
+    "reviewsCount": "{amount} reviews",
+    "@reviewsCount": {
+        "placeholders": {
+            "amount": {
+                "type": "int"
+            }
+        }
+    },
+    "specialization": "Specialization",
+    "about": "About",
+    "education": "Education",
+    "reviews": "Reviews",
+    "book": "Book",
+    "bookAgain": "Book again",
+    "perVisit": "per visit",
+    "back": "Back",
+    "chooseDate": "Choose an available date",
+    "chooseTime": "Choose an available time",
+    "cont": "Continue",
+    "rightTime": "Choose the right time to book",
+    "consultationSummary": "Consultation summary",
+    "date": "Date",
+    "time": "Time",
+    "experienceCount": "{years} years",
+    "@experienceCount": {
+        "placeholders": {
+            "years": {
+                "type": "int"
+            }
+        }
+    },
+    "duration": "Duration",
+    "notesHint": "Type here personal notes.........",
+    "paymentDetails": "Payment details",
+    "pushingButton": "After pushing the button pay, your money\nwill be withdrawn and frozen until the\nconsultation ends\n",
+    "moneyWithdrawn": "The money will be withdrawn before session\nfor 12 hours\n",
+    "important": "It’s imprortant that you should have a stable\nconnection during the video consultation\n",
+    "signedUp": "Signed up for a session you agree on\nproceesing personal data for psycologist\n",
+    "pay": "Pay",
+    "addCreditCard": "Add Credit Card",
+    "payWith": "Pay with: ",
+    "payAmount": "Pay {amount}",
+    "@payAmount": {
+        "placeholders": {
+            "amount": {
+                "type": "int"
+            }
+        }
+    },
+    "edit": "Edit {id}",
+    "@edit": {
+        "description": "A message with a single parameter",
+        "placeholders": {
+            "id": {
+                "type": "String?"
+            }
+        }
+    },
+    "creditCard": "Credit Card",
+    "addCardDetails": "Add card details",
+    "wrongCardNumber": "Wrong card number",
+    "cardHint": "Card number",
+    "saveCard": "Save card data for the future use",
+    "addCard": "Add card",
+    "upcomingConsultation": "Upcoming consultation",
+    "notesSession": "Notes for session",
+    "call": "Call",
+    "video": "Video",
+    "chat": "Chat",
+    "reschedule": "Reschedule",
+    "sessionCancelation": "Session cancelation",
+    "sureCancel": "Are you sure to cancel this meeting?",
+    "upcoming": "Upcoming",
+    "previous": "Previous",
+    "speaker": "Speaker",
+    "videoCall": "Video Call",
+    "mute": "Mute",
+    "messageHint": "Message",
+    "today": "Today {text}",
+    "@today": {
+        "placeholders": {
+            "text": {
+                "type": "String"
+            }
+        }
+    },
+    "yesterday": "Yesterday {text}",
+    "@yesterday": {
+        "placeholders": {
+            "text": {
+                "type": "String"
+            }
+        }
+    },
+    "read": "Read {text}",
+    "@read": {
+        "placeholders": {
+            "text": {
+                "type": "String"
+            }
+        }
+    },
+    "yes": "Yes",
+    "waitingConnect": "Waiting to connect ...",
+    "no": "No",
+    "bookingAdded": "Booking successfully added!",
+    "reviewSession": "Review session",
+    "coupleMinutes": "If you have a couple of spare minutes, please leave a review on our psycologist",
+    "howConsultation": "How was your consultation?",
+    "describeExperience": "Please describe your experience",
+    "impressionHint": "Type here your impressions.........",
+    "thankYou": "Thanks for your ",
+    "howMuch": "How much can I pay for a session?",
+    "feedback": "Your feedback is very valuable for us to\n make the next experiece even better.",
+    "submit": "Submit"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>29671379297-rbb96jbkk5drep2apqr5415s9pkg1bug.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.29671379297-rbb96jbkk5drep2apqr5415s9pkg1bug</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBI0W7RgZz08u2x0t5hoYxsUh4rF6Iz9v4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>29671379297</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.verygoodcore.mint</string>
+	<key>PROJECT_ID</key>
+	<string>mint-flavors-stg</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mint-flavors-stg.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:29671379297:ios:8e1690d7b4ee7e6afd3520</string>
+</dict>
+</plist>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197432804857",
+    "project_id": "project-eva-89984",
+    "storage_bucket": "project-eva-89984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197432804857:android:65852c97485d24cba5e928",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.mint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDLE9JtKG9EaMwXbvPI2PIWb5QviYZkic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
